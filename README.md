@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Header](img/github-header-image.png)
+![Header](github-header-image.png)
 
 
 <p align="center">
