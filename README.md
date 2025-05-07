@@ -1,7 +1,5 @@
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ffffff&left=true&width=1000&lines=Hello+Everyone+" alt="Typing SVG" />
-</h1>
+
 <!--
 **HendraGunadie/HendraGunadie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,6 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ffffff&left=true&width=1000&lines=Hello+Everyone+" alt="Typing SVG" />
+</h1>
 
 ![Header](github-header-image.png)
 
