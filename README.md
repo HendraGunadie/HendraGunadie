@@ -1,13 +1,10 @@
 
 ![Profile views](https://visitor-badge.laobi.icu/badge?page_id=hendragunadie)
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ffffff&left=true&width=1000&lines=My+Tech+Stack" alt="Typing SVG" />
-</p>
+
 <h1 align="center">Hi 👋, I'm Hendra Gunadie</h1>
 <h3 align="center">Indie Game Developer from Banjarmasin, Indonesia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hendragunadie&label=Profile%20views&color=0e75b6&style=flat" alt="hendragunadie" /> </p>
 
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" /> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hendragunadie" alt="hendragunadie" /></a> </p>
@@ -21,6 +18,7 @@
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HendraGunadie/HendraGunadie/output/pacman-contribution-graph-dark.svg">
 @@ -46,3 +51,4 @@ Here are some ideas to get you started:
+
 
 
 
