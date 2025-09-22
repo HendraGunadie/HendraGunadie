@@ -43,6 +43,6 @@ Here are some ideas to get you started:
 
 ###
 
-![HendraGunadie GitHub stats](https://github-readme-stats.vercel.app/api?username=HendraGunadie&show_icons=true&theme=transparent)
+
 
 
