@@ -18,14 +18,13 @@ Web development is just for fun 🌐
 ## My Other Social Media
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@hendragunadie) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hendragunadiee/) [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@hendragunadie) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/yeh.hendra)
 
-## GitHub Stats
-   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HendraGunadie&show_icons=true&theme=dark&hide_border=true&count_private=true)
 
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HendraGunadie/HendraGunadie/output/pacman-contribution-graph-dark.svg">
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HendraGunadie/HendraGunadie/output/pacman-contribution-graph.svg">
 <img alt="GitHub Contribution Graph" src="https://raw.githubusercontent.com/HendraGunadie/HendraGunadie/output/pacman-contribution-graph.svg">
 </picture>
+
 
 
 
