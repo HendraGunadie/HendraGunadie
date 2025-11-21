@@ -13,10 +13,10 @@ Web development is just for fun 🌐
 [![Play on itch.io](https://img.shields.io/badge/🎮%20Play%20Now%20On-itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://haerstudio.itch.io/)
 ![Haer Studio Banner](https://github.com/user-attachments/assets/2e0f1e50-830f-4377-9284-47b36bb8c0ea)
 
-<!--
+
 ## My Stats
 ![Hendra Gunadie Stats](https://github-readme-stats.vercel.app/api?username=hendragunadie&theme=dark&show_icons=true&hide_border=true&count_private=false)
-![Hendra Gunadie Streak](https://github-readme-streak-stats.herokuapp.com/?user=hendragunadie&theme=dark&hide_border=true)
+![Hendra Gunadie Streak](https://github-readme-streak-stats.herokuapp.com/?user=hendragunadie&theme=dark&hide_border=true) <!--
 ![Hendra Gunadie Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hendragunadie&theme=dark&show_icons=true&hide_border=true&layout=compact) -->
 
 
@@ -29,6 +29,7 @@ Web development is just for fun 🌐
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HendraGunadie/HendraGunadie/output/pacman-contribution-graph.svg">
 <img alt="GitHub Contribution Graph" src="https://raw.githubusercontent.com/HendraGunadie/HendraGunadie/output/pacman-contribution-graph.svg">
 </picture> -->
+
 
 
 
