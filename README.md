@@ -32,8 +32,9 @@ Web development is just for fun 🌐
 
 ## My Stats
 <div align="center">
-  
-![Hendra Gunadie Streak](https://github-readme-streak-stats.herokuapp.com/?user=hendragunadie&theme=dark&hide_border=true) 
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=HendraGunadie)](https://git.io/streak-stats)
+<!-- ![Hendra Gunadie Streak](https://github-readme-streak-stats.herokuapp.com/?user=hendragunadie&theme=dark&hide_border=true)  -->
 
 </div>
 <!-- <picture>
@@ -41,6 +42,7 @@ Web development is just for fun 🌐
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HendraGunadie/HendraGunadie/output/pacman-contribution-graph.svg">
 <img alt="GitHub Contribution Graph" src="https://raw.githubusercontent.com/HendraGunadie/HendraGunadie/output/pacman-contribution-graph.svg">
 </picture> -->
+
 
 
 
