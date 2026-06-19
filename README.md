@@ -31,12 +31,12 @@ Web development is just for fun 🌐
 [![YouTube](https://img.shields.io/badge/HendraGunadie-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@hendragunadie) [![Instagram](https://img.shields.io/badge/hendragunadiee-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hendragunadiee/) [![TikTok](https://img.shields.io/badge/hendragunadie-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@hendragunadie) [![Portfolio](https://img.shields.io/badge/hendragunadie.pages.dev-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://hendragunadie.pages.dev)
 
 ## My Stats
+
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=HendraGunadie)](https://git.io/streak-stats)
-<!-- ![Hendra Gunadie Streak](https://github-readme-streak-stats.herokuapp.com/?user=hendragunadie&theme=dark&hide_border=true)  -->
-
-[![ GitHub stats](https://github-readme-stats.vercel.app/api?username=HendraGunadie)](https://github.com/anuraghazra/github-readme-stats)
+|  |  |
+|---|---|
+| [![GitHub Streak](https://streak-stats.demolab.com/?user=HendraGunadie)](https://git.io/streak-stats) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HendraGunadie&layout=compact) |
 
 </div>
 <!-- <picture>
